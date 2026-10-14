@@ -1,0 +1,30 @@
+[project]
+name = "ume-recipes"
+version = "0.1.0"
+description = "Controlled training and evaluation recipes for universal multimodal embeddings"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.12.0",
+    "datasets>=4.4.2",
+    "decord>=0.6.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "ninja>=1.13.0",
+    "numpy>=1.26.0",
+    "opencv-python-headless>=4.12.0.88",
+    "peft>=0.11.0",
+    "pyyaml>=6.0",
+    "qwen-vl-utils>=0.0.14",
+    "safetensors>=0.4.0",
+    "scipy>=1.16.3",
+    "setuptools>=80.9.0",
+    "torch==2.8.*",
+    "torchvision>=0.23.0",
+    "transformers==5.9.0",
+    "wandb>=0.16.0",
+]
+
+[[tool.uv.index]]
+url = "http://mirrors.aliyun.com/pypi/simple"
+name = "aliyun"

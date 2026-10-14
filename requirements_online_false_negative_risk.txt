@@ -1,0 +1,2 @@
+# Isolated dependency for the mutable ANN index; not imported by other flows.
+faiss-cpu==1.15.0

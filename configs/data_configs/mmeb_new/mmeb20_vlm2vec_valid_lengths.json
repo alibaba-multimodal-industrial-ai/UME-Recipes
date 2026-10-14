@@ -1,0 +1,27 @@
+{
+  "dataset_config_sha256": "c8acf814868587b1e9af1ff273be3b2f8554df383d4c13ffb727a652eaaa83f9",
+  "source_log": "train_qwen2_dynamic_hard_batch_v2_20260825_142342.log",
+  "total_rows": 1068170,
+  "lengths": {
+    "ImageNet_1K": 100000,
+    "N24News": 48988,
+    "HatefulMemes": 8500,
+    "VOC2007": 7844,
+    "SUN397": 19850,
+    "OK-VQA": 9007,
+    "A-OKVQA": 17055,
+    "DocVQA": 39463,
+    "InfographicsVQA": 23946,
+    "ChartQA": 28000,
+    "Visual7W": 69817,
+    "VisDial": 123287,
+    "CIRR": 26116,
+    "VisualNews_t2i": 99903,
+    "VisualNews_i2t": 100000,
+    "MSCOCO_t2i": 100000,
+    "MSCOCO_i2t": 113287,
+    "NIGHTS": 15941,
+    "WebQA": 17166,
+    "MSCOCO": 100000
+  }
+}

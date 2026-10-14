@@ -1,0 +1,5 @@
+UniME-V2:
+  # The dedicated loader reads --unime_v2_data_path directly. This explicit
+  # one-entry manifest prevents accidental mixing with B3/VLM2Vec datasets.
+  weight: 1.0
+

@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Models, datasets, caches, and experiment outputs
+/models/
+/data/
+/exp/
+/logs/
+/results/
+/.cache/
+tmp*
+*.log
+*.excp
+
+# Tooling and editor state
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Keep the repository's preprocessing programs under build/ tracked.
