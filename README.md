@@ -163,14 +163,11 @@ Set `DATASET_CACHE`, `IMAGE_DIR`, `BATCH_SIZE`, or `CUDA_VISIBLE_DEVICES` when t
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{li2026reallyworksuniversalmultimodal,
+@article{li2026what,
   title={What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies},
-  author={Duo Li and Haojun Pan and Zuhao Yang and Xintong Wang and Chengfu Huo and Shijian Lu and Liang Ding},
-  year={2026},
-  eprint={2610.15035},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2610.15035}
+  author={Li, Duo and Pan, Haojun and Yang, Zuhao and Wang, Xintong and Huo, Chengfu and Lu, Shijian and Ding, Liang},
+  journal={arXiv preprint arXiv:2610.15035},
+  year={2026}
 }
 ```
 
